@@ -1,0 +1,14 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform:ios, '8.0'
+target "FaceBookPJ" do
+pod 'ReactiveCocoa', '~>2.3'
+pod 'GPUImage'
+pod 'pop', '~> 1.0'
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'AsyncDisplayKit', '>= 2.0'
+pod 'Shimmer'
+use_frameworks!
+pod 'ChameleonFramework'
+pod 'TSMessages'
+end

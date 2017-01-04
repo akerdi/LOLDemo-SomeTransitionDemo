@@ -3,7 +3,7 @@ This repository use ASDK and some other awesome framework to test a small projec
 
 pod update
 
-LOLToken 是http://api.games-cube.com/combat/Champion.aspx这个平台的Token
+LOLToken 是http://api.games-cube.com/combat/Champion.aspx 这个平台的Token
 本例仅仅作为初始使用ASDK的初例以及学习pop动效和转场等功能的例子。
 
 champions 图片文件夹后面的图片 都为”_square_0.png“结尾 都为从windows电脑拷过来的图片，还有ability的图片也是，有些图片可能会不来
